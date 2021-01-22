@@ -1,4 +1,6 @@
-//kilometerToMeter Converts problem solution
+//https://github.com/MampyCSE/js-problems
+
+//Problem-01: kilometerToMeter Converts problem solution
 function kilometerToMeter(kilometer){
   
     var meter = kilometer * 1000;
@@ -12,7 +14,7 @@ console.log(Math.abs(Meter));
 
 
 
-//budgetCalculator problem solution
+//Problem-02: budgetCalculator problem solution
 
 function budgetCalculator(watch,phone,laptop){
     var num1 = watch * 50;
@@ -30,7 +32,7 @@ console.log(Math.abs(total_budget));
 
 
 
-//hotelCost problem solution
+//Problem-03: hotelCost problem solution
 
 function hotelCost(everyNight){
     var n = everyNight;
@@ -71,7 +73,7 @@ console.log(TotalHotelCost);
 
 
 
-//megaFriend array problem solution
+//Problem-04: megaFriend array problem solution
 
 function megaFriend(longName) {
     var max = longName[0].length;
